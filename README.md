@@ -9,10 +9,10 @@
 # Hello Co-operative society world! 
 
 <br>Exemplo de algoritmo no pseudocódigo VisualG</br>
-// Seção de Comandos
-escreval ("Olá, mundo cooperativista!")
-escreval ("Sou cooperada e me livrei da procastinação!")
-fimalgoritmo
+* // Seção de Comandos
+* escreval ("Olá, mundo cooperativista!")
+* escreval ("Sou cooperada e me livrei da procastinação!")
+* fimalgoritmo
 
 ![hello_co-operative_society](hello_co-operative_society_world.jpg)
 
